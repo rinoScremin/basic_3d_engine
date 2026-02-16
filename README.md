@@ -138,3 +138,10 @@ Run:
 * Modular engine architecture (world, camera, projection, renderer)
 
 ---
+
+<img width="1517" height="708" alt="image" src="https://github.com/user-attachments/assets/1dd35865-104d-4481-a411-80358eb098a0" />
+
+
+<img width="1498" height="985" alt="Screenshot from 2026-02-16 10-24-29" src="https://github.com/user-attachments/assets/911e4c67-75ed-446e-a81f-322650a3a7af" />
+
+
